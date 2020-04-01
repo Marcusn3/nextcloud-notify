@@ -1,9 +1,9 @@
 # nextcloud-notify
 
 
-###Installation & Usage
+### Installation & Usage
 
-####Install Kdeconnect, pair your device and note the Device ID:
+### Install Kdeconnect, pair your device and note the Device ID:
 
 `$ sudo apt install kdeconnect`
 
