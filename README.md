@@ -3,7 +3,7 @@
 
 ### Installation & Usage
 
-### Install Kdeconnect, pair your device and note the Device ID:
+  ##### Install Kdeconnect, pair your device and note the Device ID:
 
 `$ sudo apt install kdeconnect`
 
@@ -14,7 +14,7 @@
 `$ kdeconnect-cli -d device-id --pair`
 
 
-####Enter your device ID in the code:
+##### Enter your device ID in the code:
 
 ```python
 #replace
