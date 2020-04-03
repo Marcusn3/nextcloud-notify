@@ -3,9 +3,11 @@
 
 ### Installation & Usage
 
-  ##### Install Kdeconnect, pair your device and note the Device ID:
+  ##### Install Requirements, pair your device and note the Device ID:
 
 `$ sudo apt install kdeconnect`
+
+`$ pip install schedule`
 
 `$ kdeconnect-cli -l`
 
