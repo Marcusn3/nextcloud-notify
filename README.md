@@ -7,7 +7,7 @@
 
 `$ sudo apt install kdeconnect`
 
-`$ pip install schedule`
+`$ pip3 install schedule`
 
 `$ kdeconnect-cli -l`
 
