@@ -30,4 +30,4 @@ success = "kdeconnect-cli -d your_device_id --ping-msg 'notification_message'"
 
 run `$ nohup python3 ~/nextcloud-notify/nextcloud-notify.py &`
 
-###Note: If you reboot your device while the script is running, you have to start the script again after rebooting
+### Note: If you reboot your device while the script is running, you have to start the script again after rebooting
