@@ -26,3 +26,5 @@ success = "kdeconnect-cli -d your_device_id --ping-msg 'notification_message'"
 
 
 ```
+#### Usage:
+run `$ nohup python3 ~/nextcloud-notify/nextcloud-notify.py &`
