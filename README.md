@@ -1,6 +1,6 @@
 # nextcloud-notify
 
-
+[![forthebadge](https://forthebadge.com/images/badges/powered-by-electricity.svg)](http://forthebadge.com/)
 ### Installation & Usage
 
   ##### Install Requirements, pair your device and note the Device ID:
